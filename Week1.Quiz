@@ -6,7 +6,8 @@ The University of Auckland
 
 Question 2
 
-The definition of free software consists of four freedoms (freedoms 0 through 3). Which of the following is NOT one of the freedoms that are part of the definition?
+The definition of free software consists of four freedoms (freedoms 0 through 3). Which of the following is NOT one of the
+freedoms that are part of the definition?
 
 
 The freedom to sell the software for any price.
@@ -55,7 +56,8 @@ a numeric vector with elements 3, 4, 5, 6.
 
 Question 10
 
-Suppose I have a vector x <- c(17, 14, 4, 5, 13, 12, 10) and I want to set all elements of this vector that are greater than 10 to be equal to 4. What R code achieves this?
+Suppose I have a vector x <- c(17, 14, 4, 5, 13, 12, 10) and I want to set all elements of this vector that are greater 
+than 10 to be equal to 4. What R code achieves this?
 
 x[x >= 11] <- 4
 
@@ -107,7 +109,8 @@ What is the mean of the Ozone column in this dataset? Exclude missing values (co
 
 Question 18
 
-Extract the subset of rows of the data frame where Ozone values are above 31 and Temp values are above 90. What is the mean of Solar.R in this subset?
+Extract the subset of rows of the data frame where Ozone values are above 31 and Temp values are above 90. What is the 
+mean of Solar.R in this subset?
 
 212.8
 
